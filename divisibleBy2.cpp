@@ -2,7 +2,7 @@
 using namespace std;
 
 bool isDivisibleBy2(int n) {
-  ; // Complete this function
+  return(n % 2 == 0); // Completed this function tht checks if number is divisible by 2 or not
 }
 
 int main() {
